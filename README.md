@@ -1,7 +1,7 @@
 # dark_blu_ui
 version 1, initial.
 
-[DOWNLOAD](blob:https://github.com/9ec0ceaa-8a5a-414a-874d-5775bdc44227)
+[DOWNLOAD](https://github.com/9ec0ceaa-8a5a-414a-874d-5775bdc44227)
 
 not all changed interfaces in screenshot.
 
